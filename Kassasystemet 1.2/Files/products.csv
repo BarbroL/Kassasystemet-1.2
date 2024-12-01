@@ -1,0 +1,10 @@
+ProductId , ProductName     , ProductPrice   , PriceCategory  
+100       , Ägg 10-pack     , 52.90          , PerStyck       
+200       , Kaffe           , 68.90          , PerStyck       
+300       , Banan           , 27.95          , PerKilo        
+400       , Mjölk           , 15.90          , PerStyck       
+500       , Rågrut          , 21.90          , PerStyck       
+600       , Potatis         , 42.90          , PerKilo        
+700       , Clementiner     , 35.90          , PerKilo        
+800       , Gurka           , 14.90          , PerStyck       
+900       , Smör            , 55.90          , PerStyck       
