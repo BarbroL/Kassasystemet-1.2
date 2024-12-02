@@ -32,7 +32,7 @@ namespace Kassasystemet_1._2
 
             Console.Clear();
             Console.WriteLine("{0, -10} {1, -17} {2, -18} {3, -15}",
-                "ProductId", "ProductName", "ProductPrice", "ProductCategory");
+                "Produktid", "Produktnamn", "Produktpris", "Produktkategori");
 
             foreach (var product in products)
             {
